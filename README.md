@@ -19,3 +19,4 @@ GitHub is a service/website which allows to store and manage source code in a fo
 -  <b><i> git add 'file name' </i> :</b> used to add new or changed files in working area  to git staging area. <br>
 -  <b><i> git add . </i> :</b> used to  add all new or changed files in working area  to git staging area at once. <br>
 - <b><i> git commit -m 'message' </i> :</b> it is a record of change. <br>
+- <b><i> git push origin main </i> :</b> used to upload local repo to remote repo. <br>
