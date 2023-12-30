@@ -34,4 +34,4 @@ GitHub is a service/website which allows to store and manage source code in a fo
 - <b><i> git pull origin 'branch name'</i> :</b>used to integrate remote changes/content on local repo . <br>
 - <b><i> pull request </i> :</b>It lets you tell others about changes you have pushed to a branch in repository on GitHUb and wish to merge them. <br>
 <br>
-- <b><i> Resolving merge conflicts</i> :</b>An event  that take place when Git is unable to automatically resolves differences in code between two commits. <br>
+- <b><i> Resolving merge conflicts</i> :</b>An event  that take place when Git is unable to automatically resolves differences in code between two commits. There are two ways : 1. Pull request method 2. merge command <br>
