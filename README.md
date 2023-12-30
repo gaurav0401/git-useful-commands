@@ -31,4 +31,4 @@ GitHub is a service/website which allows to store and manage source code in a fo
 - <b><i> git branch -d 'branch name'</i> :</b>to delete branch. <br>
 - <b><i> git diff 'branch name'</i> :</b>to compare commits , files, branch. <br>
 - <b><i> git merge 'branch name'</i> :</b>to merge 2 branches. <br>
-- <b><i> pull request </i> :</b>It lets you tell others about changes you have pushed to a branch in repository on GitHUb <br>
+- <b><i> pull request </i> :</b>It lets you tell others about changes you have pushed to a branch in repository on GitHUb and wish to merge them. <br>
