@@ -34,4 +34,11 @@ GitHub is a service/website which allows to store and manage source code in a fo
 - <b><i> git pull origin 'branch name'</i> :</b>used to integrate remote changes/content on local repo . <br>
 - <b><i> pull request </i> :</b>It lets you tell others about changes you have pushed to a branch in repository on GitHUb and wish to merge them. <br>
 <br>
+<h3>Undoing changes</h3>
+- <b><i> git reset</i> :</b>to undo the all added files for commit. <br>
+- <b><i> git reset 'filename'</i> :</b>to undo the added files or changes for commit. <br>
+- <b><i> git reset Head~1</i> :</b>to undo the latest commit only <br>
+- <b><i> git reset 'commit hash'</i> :</b>to undo many commits. <br>
+- <b><i> git log</i> :</b>to undo check log file of all commits done on branch <br>
+
 - <b><i> Resolving merge conflicts</i> :</b>An event  that take place when Git is unable to automatically resolves differences in code between two commits. There are two ways : 1. Pull request method 2. merge command <br>
