@@ -23,8 +23,8 @@ GitHub is a service/website which allows to store and manage source code in a fo
 - <b><i> git init</i> :</b> used to create new git repo. <br>
 - <b><i> git remote add origin  'link'</i> :</b> used to add new repo to git . <br>
 - <b><i> git remote -v </i> :</b>to verify remote <br>
-- <b><i> git branch </i> :</b>to check branch<br> (A branch is a pointer to a specific commit. It is also known as a version of repository.)
-- <b><i> git branch -M main</i> :</b>to rename branch. <br> (master is a by default branch.)
+- <b><i> git branch </i> :</b>to check branch<br> &nbsp; &nbsp; &nbsp;(A branch is a pointer to a specific commit. It is also known as a version of repository.)
+- <b><i> git branch -M main</i> :</b>to rename branch.  (master is a by default branch.)<br>
 - <b><i> git push-u origin main </i> :</b> used to push code on same branch in future using 'git push' only <br>
 - <b><i> git checkout 'branch name'</i> :</b>to navigate to another branch. <br>
 - <b><i> git checkout -b 'new branch name</i> :</b>to create new branch. <br>
