@@ -14,4 +14,8 @@ GitHub is a service/website which allows to store and manage source code in a fo
 - <b><i> git config --list </i> :</b>   it shows the list of all  git configurations.  
 - <b><i>git clone <'link'> </i> </b> used to clone repository on local machine.
 - <b><i> git status </i> :</b> it display the state of code.
-- 
+-  <b><i> git status </i> :</b> it display the state of code. <br>
+ &nbsp;&nbsp;&nbsp;  (NOTE: there are 4 types of status 1.untracked-new files which are not tracked by git yet. 2.modified - changed  3.staged - file is ready to be comitted 4.unmodified - unchaged)
+-  <b><i> git add 'file name' </i> :</b> used to add new or changed files in working area  to git staging area. <br>
+-  <b><i> git add . </i> :</b> used to  add all new or changed files in working area  to git staging area at once. <br>
+- <b><i> git commit -m 'message' </i> :</b> it is a record of change. <br>
