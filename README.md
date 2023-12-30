@@ -19,4 +19,13 @@ GitHub is a service/website which allows to store and manage source code in a fo
 -  <b><i> git add 'file name' </i> :</b> used to add new or changed files in working area  to git staging area. <br>
 -  <b><i> git add . </i> :</b> used to  add all new or changed files in working area  to git staging area at once. <br>
 - <b><i> git commit -m 'message' </i> :</b> it is a record of change. <br>
-- <b><i> git push origin main </i> :</b> used to upload local repo to remote repo. <br>
+- <b><i> git push origin 'main (i.e) name of branch' </i> :</b> used to upload content from local repo to remote repo. <br>
+- <b><i> git init</i> :</b> used to create new git repo. <br>
+- <b><i> git remote add origin  'link'</i> :</b> used to add new repo to git . <br>
+- <b><i> git remote -v </i> :</b>to verify remote <br>
+- <b><i> git branch </i> :</b>to check branch<br> (A branch is a pointer to a specific commit. It is also known as a version of repository.)
+- <b><i> git branch -M main</i> :</b>to rename branch. <br> (master is a by default branch.)
+- <b><i> git push-u origin main </i> :</b> used to push code on same branch in future using 'git push' only <br>
+- <b><i> git checkout 'branch name'</i> :</b>to navigate to another branch. <br>
+- <b><i> git checkout -b 'new branch name</i> :</b>to create new branch. <br>
+- <b><i> git branch -d 'branch name'</i> :</b>to delete branch. <br>
