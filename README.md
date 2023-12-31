@@ -41,6 +41,7 @@ GitHub is a service/website which allows to store and manage source code in a fo
 - <b><i> git reset 'commit hash'</i> :</b>to undo many commits. <br>
 - <b><i> git reset --hard 'commit hash'</i> :</b>to undo many commits on both locally and remotely . <br>
 - <b><i> git log</i> :</b>to undo check log file of all commits done on branch <br>
+- <b><i> .gitignore </i> :</b>it contains the files which are ignored by the git during tracking, may be database files etc. <br>
 
 <br><br>
 - <b><i> Resolving merge conflicts</i> :</b>An event  that take place when Git is unable to automatically resolves differences in code between two commits. There are two ways : 1. Pull request method 2. merge command <br>
