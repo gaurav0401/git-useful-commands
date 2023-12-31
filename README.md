@@ -1,4 +1,4 @@
-# github-guide
+# git-guide
 
 Git is a version control system which helps to control different versions of the  project.Git is a tool.
 <br>
