@@ -31,6 +31,7 @@ GitHub is a service/website which allows to store and manage source code in a fo
 - <b><i> git branch -d 'branch name'</i> :</b>to delete branch. <br>
 - <b><i> git diff 'branch name'</i> :</b>to compare commits , files, branch. <br>
 - <b><i> git merge 'branch name'</i> :</b>to merge 2 branches. <br>
+- <b><i> git rm --cached filename</i> :</b>used to remove the  history of the tracked files. <br>
 - <b><i> git pull origin 'branch name'</i> :</b>used to integrate remote changes/content on local repo . <br>
 - <b><i> .gitignore </i> :</b>it contains the files which are ignored by the git during tracking, may be database files etc. <br>
 - <b><i> pull request </i> :</b>It lets you tell others about changes you have pushed to a branch in repository on GitHUb and wish to merge them. <br>
