@@ -32,6 +32,7 @@ GitHub is a service/website which allows to store and manage source code in a fo
 - <b><i> git diff 'branch name'</i> :</b>to compare commits , files, branch. <br>
 - <b><i> git merge 'branch name'</i> :</b>to merge 2 branches. <br>
 - <b><i> git pull origin 'branch name'</i> :</b>used to integrate remote changes/content on local repo . <br>
+- <b><i> .gitignore </i> :</b>it contains the files which are ignored by the git during tracking, may be database files etc. <br>
 - <b><i> pull request </i> :</b>It lets you tell others about changes you have pushed to a branch in repository on GitHUb and wish to merge them. <br>
 <br>
 <h3>Undoing changes</h3>
@@ -41,7 +42,7 @@ GitHub is a service/website which allows to store and manage source code in a fo
 - <b><i> git reset 'commit hash'</i> :</b>to undo many commits. <br>
 - <b><i> git reset --hard 'commit hash'</i> :</b>to undo many commits on both locally and remotely . <br>
 - <b><i> git log</i> :</b>to undo check log file of all commits done on branch <br>
-- <b><i> .gitignore </i> :</b>it contains the files which are ignored by the git during tracking, may be database files etc. <br>
+
 
 <br><br>
 - <b><i> Resolving merge conflicts</i> :</b>An event  that take place when Git is unable to automatically resolves differences in code between two commits. There are two ways : 1. Pull request method 2. merge command <br>
